@@ -5,6 +5,7 @@ public class P1 {
 		int a =12;
 		int b = 10;
 		int c = 30;
+		int d = 40;
 	}
 
 }
