@@ -6,6 +6,7 @@ public class P1 {
 		int b = 10;
 		int e=22;
 		int c=44;
+		String s= "commit" ;
 	}
 	
 
