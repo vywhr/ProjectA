@@ -7,7 +7,8 @@ public class P1 {
 		int e=22;
 		int c=44;
 		String s= "commit" ;
-	}
+		String s2="commit 2";
+		}
 	
 
 }
